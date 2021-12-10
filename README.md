@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Poojith-Obeysekara</h1>
+<h1 align="center">Hi ﾂ, I'm Poojith-Obeysekara</h1>
 <h3 align="center">An Open Source Enthusiast from Sri Lanka</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojith-obeysekara" alt="poojith-obeysekara" /></a> </p>
