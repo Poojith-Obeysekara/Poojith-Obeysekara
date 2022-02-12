@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Computing and Software Engineering...**
 
 - 📫 How to reach me ? **poojithdraco@gmail.com**
-- ## Now playing
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313d45zd3uec7yhm6cioxakgr4ym&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">Languages and Tools:</h3>
