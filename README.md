@@ -19,4 +19,3 @@
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313d45zd3uec7yhm6cioxakgr4ym&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=313d45zd3uec7yhm6cioxakgr4ym&redirect=true)
