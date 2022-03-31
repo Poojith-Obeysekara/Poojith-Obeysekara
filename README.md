@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Poojith-Obeysekara</h1>
 <h3 align="center">An Open Source Enthusiast from Sri Lanka</h3>
 
-![ezgif-2-33c29572c5](https://user-images.githubusercontent.com/93044048/161051737-6e7a32ec-5d65-4164-beac-32d362d4624d.gif)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojith-obeysekara" alt="poojith-obeysekara" /></a> </p>
+
+![ezgif-2-33c29572c5](https://user-images.githubusercontent.com/93044048/161051737-6e7a32ec-5d65-4164-beac-32d362d4624d.gif)
 
 - 🔭 I’m interested in **Software Developing...**
 
