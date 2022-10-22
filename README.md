@@ -17,7 +17,7 @@
 
  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=poojith-obeysekara&show_icons=true&locale=en" alt="poojith-obeysekara" /></p>
 <p>
-</p> \\\
+</p> 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313d45zd3uec7yhm6cioxakgr4ym&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=313d45zd3uec7yhm6cioxakgr4ym&redirect=true)   
 
