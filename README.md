@@ -19,5 +19,4 @@
 <p>
 </p> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313d45zd3uec7yhm6cioxakgr4ym&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=313d45zd3uec7yhm6cioxakgr4ym&redirect=true)   
