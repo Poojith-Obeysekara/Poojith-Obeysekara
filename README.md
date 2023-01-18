@@ -17,6 +17,7 @@
 
  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=poojith-obeysekara&show_icons=true&locale=en" alt="poojith-obeysekara" /></p>
 <p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poojith-obeysekara&layout=compact)](https://github.com/poojith-obeysekara/github-readme-stats)
 </p> 
 
 
