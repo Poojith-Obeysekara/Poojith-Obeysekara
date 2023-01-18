@@ -20,10 +20,7 @@
 
 </p>
 
-<p> <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=poojith-obeysekara&ayout=compact" alt="poojith-obeysekara" />
 
-
-</p>
  
 
 <p>
