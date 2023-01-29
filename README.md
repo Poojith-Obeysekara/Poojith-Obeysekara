@@ -21,5 +21,7 @@
 </p>
 
 <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojith-obeysekara&layout=compact)" alt="poojith-obeysekara" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poojith-obeysekara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p> 
