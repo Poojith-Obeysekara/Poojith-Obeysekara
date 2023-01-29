@@ -21,5 +21,5 @@
 </p>
 
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Poojith-Obeysekara=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poojith-obeysekara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p> 
